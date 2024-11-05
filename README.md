@@ -8,3 +8,5 @@ Inputs are taken by two two input AND gates and they produce two interemdiate ou
 Two input AND gate entity is described using both the behavioural and dataflow models. This entity is instantiated twise to create the four input AND gate whcih is described using the structural modeling.
 
 Behavioural, dataflow and structural modeling are introduced in the undergraduate course modules using HDLs such as VHDL and Verilog.
+
+The testbench is created to simulate the inputs applied to four input ANd gate and monitors the simulated output.
