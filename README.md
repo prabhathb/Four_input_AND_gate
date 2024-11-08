@@ -18,3 +18,5 @@ Typical steps of creating a test bench are followed in the respective VHDL file.
   04. Declare the signals to be used in the test bench.
   05. Instantiate the DUT by mapping the ports with the signals declared above.
   06. Generating the input signals in the proper sequence to be applied to the DUT for test.
+  
+Simulation was done on ModelSim starter edition 2020.1 by Mentor Graphics.
